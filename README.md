@@ -7,8 +7,8 @@ Primary features include **LOGIN/LOGOUT** ;  NEW MAGAZINE **UPLOAD AND VIEW** ;
 
 
 - TECH STACKS - FLUTTER / FIREBASE
-- UI DESIGNED IN - FIGMA
-
+- UI DESIGNED IN - FIGMA 
+- **PLAY STORE** - https://play.google.com/store/apps/details?id=com.garment.line
 ## GARMENTLINE
 
 This project is a starting point for a Flutter application.
