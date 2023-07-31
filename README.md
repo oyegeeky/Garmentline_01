@@ -1,7 +1,7 @@
 ##### GARMENTLINE
 
 A new Flutter application built for client.
-Primary features include **LOGIN/LOGOUT** ;  NEW MAGAZINE **UPLOAD AND VIEW** ; 
+Primary features include **LOGIN/LOGOUT** ;  NEW MAGAZINE **UPLOAD AND VIEW** 
 
 ![Group 1](https://github.com/oyegeeky/Garmentline_01/assets/99176694/640a6165-f127-4dd3-b924-a340856c9838)
 
