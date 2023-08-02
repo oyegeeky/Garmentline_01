@@ -1,4 +1,4 @@
-##### GARMENTLINE
+##### GARMENTLINE.apk
 
 A new Flutter application built for client.
 Primary features include **LOGIN/LOGOUT** ;  NEW MAGAZINE **UPLOAD AND VIEW** 
